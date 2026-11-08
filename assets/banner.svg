@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Meggie's little universe — 把脑海里的小灵感，做成可以点开的作品。">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#190627"/><stop offset=".55" stop-color="#511078"/><stop offset="1" stop-color="#A01363"/></linearGradient><linearGradient id="orb" x2="1" y2="1"><stop stop-color="#BA66EE"/><stop offset="1" stop-color="#F04DA4"/></linearGradient></defs>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#42009B"/><stop offset=".55" stop-color="#9400BC"/><stop offset="1" stop-color="#ED007D"/></linearGradient><linearGradient id="orb" x2="1" y2="1"><stop stop-color="#CB60FF"/><stop offset="1" stop-color="#FF64B5"/></linearGradient></defs>
 <rect width="1000" height="340" rx="26" fill="url(#bg)"/>
 <g fill="none" stroke="#edb9ff" opacity=".15"><ellipse cx="860" cy="135" rx="210" ry="95" transform="rotate(-24 860 135)"/><ellipse cx="860" cy="135" rx="245" ry="120" transform="rotate(-24 860 135)"/><path d="M0 295 Q270 215 520 300 T1000 275"/></g>
 <circle cx="846" cy="140" r="69" fill="url(#orb)"/><circle cx="825" cy="121" r="13" fill="#f9deff" opacity=".5"/><circle cx="866" cy="162" r="20" fill="#8B35B5" opacity=".3"/>
