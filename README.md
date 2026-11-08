@@ -11,7 +11,7 @@
 
 ### 🌸 我的作品花园
 
-这些项目仍在探索和迭代中。点击卡片可以查看代码与项目说明。
+这些项目仍在探索和迭代中。点击卡片查看项目，《假装很忙》可直接在线试玩。
 
 <p align="center">
   <a href="https://github.com/meggie321/tablehub"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/tablehub.svg?v=3" width="48%" alt="表格汇 · 让分散的表格与文件，更容易被找到。" /></a>
@@ -20,8 +20,10 @@
 
 <p align="center">
   <a href="https://github.com/meggie321/adhd-brain"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/adhd-brain.svg?v=3" width="48%" alt="ADHD 脑力训练站 · 探索专注力与记忆力互动练习。" /></a>
-  <a href="https://github.com/meggie321/pretend-busy"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/pretend-busy.svg?v=3" width="48%" alt="假装很忙 · 老板来了，快把摸鱼切成工作。" /></a>
+  <a href="https://lazyforwork.aicreatehome.com/"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/pretend-busy.svg?v=4" width="48%" alt="假装很忙 · 老板来了，快把摸鱼切成工作。" /></a>
 </p>
+
+<p align="center">🎮 假装很忙：<a href="https://lazyforwork.aicreatehome.com/">在线试玩</a> &nbsp;·&nbsp; <a href="https://github.com/meggie321/lazyforwork">查看源码 / Fork</a></p>
 
 <p align="center">
   <a href="https://github.com/meggie321/stack-escape"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/stack-escape.svg?v=3" width="48%" alt="叠层逃生 · 在层层挑战中，寻找逃生机会。" /></a>
