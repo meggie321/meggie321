@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/avatar-purple-pink.jpg" width="150" height="150" alt="Meggie 的紫粉色小猫头像" />
+</p>
+
+<p align="center">
   <strong>一点好奇心，一点想象力，和正在发生的创造。</strong><br />
   探索效率工具、城市旅行和轻量小游戏，记录每一个想法变成作品的过程。
 </p>
