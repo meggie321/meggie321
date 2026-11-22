@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  <a href="https://lazyforwork.aicreatehome.com/creatures/"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/creature-gallery.svg?v=1" width="48%" alt="神兽图签 · 青龙、白虎、朱雀、玄武与麒麟。" /></a>
+  <a href="https://lazyforwork.aicreatehome.com/creatures/"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/creature-gallery.svg?v=2" width="48%" alt="神兽图签 · 青龙、白虎、朱雀、玄武与麒麟。" /></a>
 </p>
 
 ### 🪻 最近在探索
