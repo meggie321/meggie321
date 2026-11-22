@@ -30,6 +30,10 @@
 <p align="center">🎮 假装很忙：<a href="https://lazyforwork.aicreatehome.com/">在线试玩</a> &nbsp;·&nbsp; <a href="https://github.com/meggie321/lazyforwork">查看源码 / Fork</a></p>
 
 <p align="center">
+  <a href="https://lazyforwork.aicreatehome.com/creatures/"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/creature-gallery.svg?v=1" width="48%" alt="神兽图签 · 青龙、白虎、朱雀、玄武与麒麟。" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/meggie321/stack-escape"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/stack-escape.svg?v=3" width="48%" alt="叠层逃生 · 在层层挑战中，寻找逃生机会。" /></a>
   <a href="https://github.com/meggie321/one-minute-company"><img src="https://raw.githubusercontent.com/meggie321/meggie321/main/assets/one-minute-company.svg?v=3" width="48%" alt="一分钟公司 · 用一分钟，体验经营公司的选择。" /></a>
 </p>
@@ -41,3 +45,4 @@
 - **把小点子变成小游戏**：尝试不同节奏、选择和反馈。
 
 <p align="center">✧ ─────────── ⋆ 🌙 ⋆ ─────────── ✧<br /><sub>慢慢来，也在向前。Made with curiosity & a little pink.</sub></p>
+
